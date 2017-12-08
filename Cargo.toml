@@ -2,5 +2,7 @@
 name = "zeppelindex"
 version = "0.0.0"
 authors = ["Keiji Yoshida <kjmrknsn@gmail.com>"]
+description = "Zeppelindex - Index of Apache Zeppelin Notebooks"
+license = "MIT/Apache-2.0"
 
 [dependencies]
